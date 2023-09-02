@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW/hub/todo-app-using-vue-and-tailwind-css-ryjhBiY89](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW/hub/todo-app-using-vue-and-tailwind-css-ryjhBiY89)
-- Live Site URL: [https://ap2soft.github.io/frontend-mentor-todo-app/](https://ap2soft.github.io/frontend-mentor-todo-app/)
+- Solution URL: [](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW/hub/todo-app-using-vue-and-tailwind-css-ryjhBiY89)
+- Live Site URL: [https://github.com/GunaTechz/Todo-App_cHub.github.io](https://github.com/GunaTechz/Todo-App_cHub.github.io)
 
 ### Developing
 
@@ -81,4 +81,4 @@ I learned how to use Vue3 and how to deploy websites on Github Pages.
 ## Author
 
 - Website - [Ragul P]()
-- Twitter - [@]()
+- Twitter - [@](https://twitter.com/Ragul_1010)
